@@ -73,7 +73,7 @@ For more detailed documentation on our file structure and specific functions in 
 
 ## Authors
 * Aneesh Patnaik '25, Developer
-* Herbert Sekpey, Developer
+* Herbert Sekpey '25, Developer
 * Yuchuan Ma '23+1, Developer Mentor
 * Colin Wolfe '27, Data Developer
 * James Lu, '25, Data Developer
